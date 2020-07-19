@@ -11,6 +11,7 @@ Feature:
 
 some screen shoot:
 
+<img src="https://i.ibb.co/k2mW3wD/Screen-Shot-2020-07-19-at-17-25-35.png" width="48">
 ![Alt text](https://i.ibb.co/k2mW3wD/Screen-Shot-2020-07-19-at-17-25-35.png "ss 1")
 ![Alt text](https://i.ibb.co/37ytxmx/Screen-Shot-2020-07-19-at-17-25-39.png "ss 2")
 
